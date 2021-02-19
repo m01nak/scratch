@@ -10,7 +10,5 @@ public class SmallestWindow {
 		string1 = scanner.next();
 		string2 = scanner.next();
 		scanner.close();
-		
-		
 	}
 }
